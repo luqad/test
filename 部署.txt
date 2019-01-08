@@ -1,0 +1,3 @@
+﻿部署项目：
+1、cd /greatchn/knowledge_jfinal/
+2、./startServersearch.sh（./startServersearch.sh showlog）
